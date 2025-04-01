@@ -8,7 +8,7 @@ import {
   Image,
   Dimensions,
 } from 'react-native';
-import achievement from '../assets/achievementImages';
+import achievement from '../assets/achievements/achievementImages';
 import {RootStackParamList} from '../types';
 import {useNavigation, NavigationProp} from '@react-navigation/native';
 

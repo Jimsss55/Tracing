@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "name": "First Tracing",
+    "description": "Completed your first tracing",
+    "imageKey": "achievement1"
+  },
+  {
+    "id": "2",
+    "name": "Second Tracing",
+    "description": "Completed your second tracing",
+    "imageKey": "achievement2"
+  },
+  {
+    "id": "3",
+    "name": "Third Tracing",
+    "description": "Completed your third tracing",
+    "imageKey": "achievement3"
+  }
+]
