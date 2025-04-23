@@ -395,7 +395,7 @@ const styles = StyleSheet.create({
     backgroundColor: 'red',
   },
   equippedBorder: {
-    borderColor: 'blue',
+    borderColor: 'green',
     borderWidth: 3,
   },
 });
